@@ -1,3 +1,4 @@
 homepage
 nlien vers styles.css
 lien vers le panier
+Ajout d'une bannière
